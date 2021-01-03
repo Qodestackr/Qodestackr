@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Greetings](https://tenor.com/view/greetings-mr-bean-gif-11172787)
+![Greetings](https://miro.medium.com/max/700/1*jB76MLZjiNhGSQQvxm7LSQ.gif)
 
 <!--
 **ReactifyStudio/reactifyStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,5 +47,7 @@ LinkedIn
 Slack
 <br>
 Email : winchygichu@gmail.com
-
+## Thanks for Reading this
+![IT](https://i.imgur.com/kvUU7.gif)
 # HAPPY CODING!
+![happy](https://i.gifer.com/9IT6.mp4)
