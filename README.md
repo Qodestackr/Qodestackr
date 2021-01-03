@@ -1,6 +1,7 @@
 # Hi there 👋
 
 ![Greetings](https://tenor.com/view/greetings-mr-bean-gif-11172787)
+
 <!--
 **ReactifyStudio/reactifyStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
