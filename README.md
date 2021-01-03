@@ -18,3 +18,19 @@ I'm a student at [jkuat](https://www.jkuat.ac.ke) pursuing a computer science de
 
 ## Interests
 ![Python](https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
+
+Tech stack:
+Fullstack JavaScript / TypeScript
+Python
+DevOps
+Cloud engineering
+
+My passion is to participate in open source by building software products that impacts developers and users
+
+### Social Media
+Twitter www.twitter.com/NjugiaN
+LinkedIn
+Slack
+Email : winchygichu@gmail.com
+
+HAPPY CODING!
