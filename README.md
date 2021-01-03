@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 I'm a student at [jkuat](https://www.jkuat.ac.ke) pursuing a computer science degree. My interest in tech is Web, JavaScript, Typescript, Python, Golang, Building microservices, DevOps and Cloud Engineering.
 
 ## Interests
-[Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw1zKn0ZIGfomdAcLi07Wa4E&ust=1609729927266000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOio9_vl_u0CFQAAAAAdAAAAABAD)
+![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw1zKn0ZIGfomdAcLi07Wa4E&ust=1609729927266000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOio9_vl_u0CFQAAAAAdAAAAABAD)
