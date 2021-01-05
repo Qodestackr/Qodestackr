@@ -30,7 +30,7 @@ I'm a student at [jkuat](https://www.jkuat.ac.ke) pursuing a computer science de
 ![py](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 
-## 3.DevOps 
+## 3. DevOps 
 ![devops](https://miro.medium.com/max/2400/0*n57zykBMdOdmUg7C.png)
 
 ## 5. Cloud engineering 
@@ -38,7 +38,8 @@ I'm a student at [jkuat](https://www.jkuat.ac.ke) pursuing a computer science de
 
 
 ## *My passion is to participate in open source by building software products that impacts developers and users*
- ## *As a technical writing at section (https://section.io)
+## *As a technical writing at section (https://section.io), Learning has basically become my full-time job.
+#### Follow me if you wanna learn with me. 
 
 ### Social Media
 Twitter www.twitter.com/NjugiaN
@@ -51,4 +52,3 @@ Email : winchygichu@gmail.com
 ## Thanks for Reading this
 ![IT](https://i.imgur.com/kvUU7.gif)
 # HAPPY CODING!
-![happy](https://i.gifer.com/9IT6.mp4)
