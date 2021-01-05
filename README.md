@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 -->
 I'm a student at [jkuat](https://www.jkuat.ac.ke) pursuing a computer science degree. My interest in tech is Web, JavaScript, Typescript, Python, Golang, Building microservices, DevOps and Cloud Engineering.
 
-## Interests
-![Python](https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
-
 # Tech stack:
 ## 1. Fullstack JavaScript / TypeScript 
 ![nodejs](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
@@ -51,4 +48,4 @@ Slack
 Email : winchygichu@gmail.com
 ## Thanks for Reading this
 ![IT](https://i.imgur.com/kvUU7.gif)
-# HAPPY CODING!
+# HAPPY CODING! LOVE FROM :kenya:
