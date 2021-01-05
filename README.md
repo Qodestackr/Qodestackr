@@ -22,22 +22,23 @@ I'm a student at [jkuat](https://www.jkuat.ac.ke) pursuing a computer science de
 ![Python](https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
 # Tech stack:
-## Fullstack JavaScript / TypeScript 
+## 1. Fullstack JavaScript / TypeScript 
 ![nodejs](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
 
 
-## Python 
+## 2. Python 
 ![py](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 
-## DevOps 
+## 3.DevOps 
 ![devops](https://miro.medium.com/max/2400/0*n57zykBMdOdmUg7C.png)
 
-## Cloud engineering 
+## 5. Cloud engineering 
 ![cloud](https://www.witsdigital.com/wits_assets/blog/1577433743_cloud-computing.png)
 
 
 ## *My passion is to participate in open source by building software products that impacts developers and users*
+ ## *As a technical writing at section (https://section.io)
 
 ### Social Media
 Twitter www.twitter.com/NjugiaN
