@@ -89,4 +89,4 @@ Slack
 Email : winchygichu@gmail.com
 ## Thanks for Reading this
 ![IT](https://i.imgur.com/kvUU7.gif)
-# HAPPY CODING! LOVE FROM :kenya:
+# HAPPY CODING! LOVE FROM :ke:
