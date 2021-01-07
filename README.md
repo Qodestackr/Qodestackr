@@ -64,17 +64,6 @@ I'm a student at [jkuat](https://www.jkuat.ac.ke) pursuing a computer science de
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&hide=css)](https://github.com/reactifyStudio/github-readme-stats)
 
 ## *My passion is to participate in open source by building software products that impacts developers and users*
-## *As a technical writing at section (https://section.io), Learning has basically become my full-time job.
-#### Follow me if you wanna learn with me. 
+As a technical writer, I have made learning basically become my full-time job. Follow me if you wanna learn with me. 
 
-### Social Media
-Twitter www.twitter.com/NjugiaN
-<br>
-LinkedIn
-<br>
-Slack
-<br>
-Email : winchygichu@gmail.com
-## Thanks for Reading this
-![IT](https://i.imgur.com/kvUU7.gif)
 # HAPPY CODING! LOVE FROM :kenya:
