@@ -1,6 +1,8 @@
-# Hi there 👋
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/paulodhiambo/paulodhiambo/master/wave.gif" width="30px">
 
 ![Greetings](https://miro.medium.com/max/700/1*jB76MLZjiNhGSQQvxm7LSQ.gif)
+<br>
+
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -59,21 +61,8 @@ Here are some ideas to get you started:
 -->
 I'm a student at [jkuat](https://www.jkuat.ac.ke) pursuing a computer science degree. My interest in tech is Web, JavaScript, Typescript, Python, Golang, Building microservices, DevOps and Cloud Engineering.
 
-# Tech stack:
-## 1. Fullstack JavaScript / TypeScript 
-![nodejs](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
-
-
-## 2. Python 
-![py](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-
-
-## 3. DevOps 
-![devops](https://miro.medium.com/max/2400/0*n57zykBMdOdmUg7C.png)
-
-## 5. Cloud engineering 
-![cloud](https://www.witsdigital.com/wits_assets/blog/1577433743_cloud-computing.png)
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=paulodhiambo&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulodhiambo&hide=css)](https://github.com/paulodhiambo/github-readme-stats)
 
 ## *My passion is to participate in open source by building software products that impacts developers and users*
 ## *As a technical writing at section (https://section.io), Learning has basically become my full-time job.
