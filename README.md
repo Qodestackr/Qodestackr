@@ -8,13 +8,9 @@
 
 I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https://www.jkuat.ac.ke) pursuing a computer science degree. My interest in tech is Web, JavaScript, Typescript, Python, Golang, Building microservices, DevOps and Cloud Engineering.
 
-<p align="left">
+## How I've been ranking
   <img src="https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true&theme=tokyonight&line_height=48" />
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&count_private=true&theme=tokyonight">
-</p>
-<a href="https://twitter.com/Raym0111" target="_blank">
-	<img src="https://github.com/Raymo111/Raymo111/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
-</a>
 
 ## *My passion is to participate in open source by building software products that impacts developers and users*
 When you strive to comprehend your code, you a create better workflow and become better at what you do. Your code isn't just your job anymore, it's your craft.
@@ -26,7 +22,7 @@ I am technical writer and learning basically become my full-time job. Follow me 
   <a href="https://github.com/reactifyStudio?tab=followers">
     <img src="https://img.shields.io/github/followers/reactifyStudio?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/eddiejaoude">
+  <a href="http://twitter.com/NjugiaN">
     <img src="https://img.shields.io/twitter/follow/NjugiaN?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
