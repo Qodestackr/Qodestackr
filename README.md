@@ -35,5 +35,5 @@ As a technical writer, I have made learning basically become my full-time job. F
 
 ![visitors](https://komarev.com/ghpvc/?username=reactifyStudio)
 <br><br>
-⭐ From [Abhishek Gupta](https://github.com/reactifyStudio)
+⭐ From [reactifyStudio a.k.a Wilson Njugia](https://github.com/reactifyStudio)
 # HAPPY CODING! LOVE FROM :kenya:
