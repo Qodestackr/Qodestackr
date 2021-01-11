@@ -28,7 +28,7 @@ I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https:
 As a technical writer, I have made learning basically become my full-time job. Follow me if you wanna learn with me. 
 ## Let's Connect -
 
-[![Linkedin Badge](https://img.shields.io/badge/Wilson Njugia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/Wilson Njugia/)
+![Linkedin Badge](https://img.shields.io/badge/Wilson Njugia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/Wilson Njugia/)
 [![Gmail Badge](https://img.shields.io/badge/-winchygichu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:winchygichu@gmail.com)](mailto:winchygichu@gmail.com)
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
