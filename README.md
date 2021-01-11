@@ -15,5 +15,14 @@ As a technical writer, I have made learning basically become my full-time job. F
 ## Email me :
 [![Gmail Badge](https://img.shields.io/badge/-winchygichu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:winchygichu@gmail.com)](mailto:winchygichu@gmail.com)
 
+<p align="center">
+  <a href="https://github.com/reactifyStudio?tab=followers">
+    <img src="https://img.shields.io/github/followers/reactifyStudio?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/eddiejaoude">
+    <img src="https://img.shields.io/twitter/follow/NjugiaN?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
+
 ⭐ From [reactifyStudio](https://github.com/reactifyStudio) aka Wilson Njugia
 # HAPPY CODING! LOVE FROM :kenya:
