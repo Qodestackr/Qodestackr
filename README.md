@@ -1,5 +1,5 @@
 ## Hello dev
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://njugiastudio.ml)" title="👋 Hi there! I'm (Wilson Njugia|reactifyStudio)|https://njugiastudio.ml)"/>](https://njugiastudio.ml/)
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00cf00)
 ## My Tech Stack 
