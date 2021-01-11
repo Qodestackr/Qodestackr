@@ -1,6 +1,7 @@
 ## Hello dev! <img src="https://raw.githubusercontent.com/paulodhiambo/paulodhiambo/master/wave.gif" width="30px">
 
-## My Tech Stack :(<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+## My Tech Stack 
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -27,7 +28,7 @@ I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https:
 As a technical writer, I have made learning basically become my full-time job. Follow me if you wanna learn with me. 
 ## Let's Connect -
 
-[![Linkedin Badge](https://img.shields.io/badge/-wilson-njugia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/wilson-njugia/)
+[![Linkedin Badge](https://img.shields.io/badge/Wilson Njugia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/Wilson Njugia/)
 [![Gmail Badge](https://img.shields.io/badge/-winchygichu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:winchygichu@gmail.com)](mailto:winchygichu@gmail.com)
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
