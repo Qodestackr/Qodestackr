@@ -11,7 +11,8 @@ I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https:
 </p>
 
 ## *My passion is to participate in open source by building software products that impacts developers and users*
-As a technical writer, I have made learning basically become my full-time job. Follow me if you wanna learn with me. 
+When you strive to comprehend your code, you a create better workflow and become better at what you do. Your code isn't just your job anymore, it's your craft.
+I am technical writer and learning basically become my full-time job. Follow me if you wanna learn with me. 
 ## Email me :
 [![Gmail Badge](https://img.shields.io/badge/-winchygichu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:winchygichu@gmail.com)](mailto:winchygichu@gmail.com)
 
