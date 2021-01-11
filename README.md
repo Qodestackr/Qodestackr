@@ -26,14 +26,12 @@ I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https:
 
 ## *My passion is to participate in open source by building software products that impacts developers and users*
 As a technical writer, I have made learning basically become my full-time job. Follow me if you wanna learn with me. 
-## Let's Connect -
-
-![Linkedin Badge](https://img.shields.io/badge/Wilson Njugia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/Wilson Njugia/)
+## Email me :
 [![Gmail Badge](https://img.shields.io/badge/-winchygichu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:winchygichu@gmail.com)](mailto:winchygichu@gmail.com)
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://komarev.com/ghpvc/?username=reactifyStudio)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 <br><br>
 ⭐ From [reactifyStudio a.k.a Wilson Njugia](https://github.com/reactifyStudio)
 # HAPPY CODING! LOVE FROM :kenya:
