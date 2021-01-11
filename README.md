@@ -9,9 +9,10 @@
 I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https://www.jkuat.ac.ke) pursuing a computer science degree. My interest in tech is Web, JavaScript, Typescript, Python, Golang, Building microservices, DevOps and Cloud Engineering.
 
 ## How I've been ranking
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true&theme=tokyonight&line_height=48" />
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&count_private=true&theme=tokyonight">
-
+</p>
 ## *My passion is to participate in open source by building software products that impacts developers and users*
 When you strive to comprehend your code, you a create better workflow and become better at what you do. Your code isn't just your job anymore, it's your craft.
 I am technical writer and learning basically become my full-time job. Follow me if you wanna learn with me. 
