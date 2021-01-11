@@ -5,10 +5,6 @@
 
 I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https://www.jkuat.ac.ke) pursuing a computer science degree. My interest in tech is Web, JavaScript, Typescript, Python, Golang, Building microservices, DevOps and Cloud Engineering.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&hide=css)](https://github.com/reactifyStudio/github-readme-stats)
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true&theme=tokyonight&line_height=48" />
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&count_private=true&theme=tokyonight">
