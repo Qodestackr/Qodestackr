@@ -10,7 +10,7 @@ I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https:
 
 ## How I have been ranking lately
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true&theme=tokyonight&line_height=65.9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true&theme=tokyonight&line_height=55.9" />
   <img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&count_private=true&theme=tokyonight">
 </p>
 ## *My passion is to participate in open source by building software products that impacts developers and users*
@@ -30,5 +30,5 @@ Follow me
 </p>
 -->
 
-⭐ From [reactifyStudio](https://github.com/reactifyStudio) aka Wilson Njugia
+⭐ From [reactifyStudio](https://github.com/reactifyStudio) || Wilson Njugia
 # HAPPY CODING! LOVE FROM :kenya:
