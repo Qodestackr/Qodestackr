@@ -10,8 +10,8 @@ I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https:
 
 ## How I have been ranking lately
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true&theme=tokyonight&line_height=45.9" />
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&count_private=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true&theme=tokyonight&line_height=65.9" />
+  <img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&count_private=true&theme=tokyonight">
 </p>
 ## *My passion is to participate in open source by building software products that impacts developers and users*
 When you strive to comprehend your code, you a create better workflow and become better at what you do. Your code isn't just your job anymore, it's your craft.
@@ -19,7 +19,7 @@ I am technical writer and learning basically become my full-time job.
 Follow me
 <br>
 
-
+<!--
 <p align="center">
   <a href="https://github.com/reactifyStudio?tab=followers">
     <img src="https://img.shields.io/github/followers/reactifyStudio?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
@@ -28,6 +28,7 @@ Follow me
     <img src="https://img.shields.io/twitter/follow/NjugiaN?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
+-->
 
 ⭐ From [reactifyStudio](https://github.com/reactifyStudio) aka Wilson Njugia
 # HAPPY CODING! LOVE FROM :kenya:
