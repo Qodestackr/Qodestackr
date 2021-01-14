@@ -16,7 +16,6 @@ I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https:
 ## *My passion is to participate in open source by building software products that impacts developers and users*
 When you strive to comprehend your code, you a create better workflow and become better at what you do. Your code isn't just your job anymore, it's your craft.
 I am technical writer and learning basically become my full-time job.
-Follow me
 <br>
 
 <!--
