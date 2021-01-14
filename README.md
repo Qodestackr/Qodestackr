@@ -10,8 +10,8 @@ I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https:
 
 ## How I have been ranking lately
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true&theme=tokyonight&line_height=49" />
-  <img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&count_private=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&count_private=true&theme=tokyonight">
 </p>
 ## *My passion is to participate in open source by building software products that impacts developers and users*
 When you strive to comprehend your code, you a create better workflow and become better at what you do. Your code isn't just your job anymore, it's your craft.
