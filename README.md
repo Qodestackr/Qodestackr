@@ -31,5 +31,5 @@ Open source is where my mind goes open. Learning tech basically my full-time job
 </p>
 -->
 
-⭐ From [reactifyStudio](https://github.com/reactifyStudio) || Wilson Njugia
+⭐ From [reactifyStudio](https://github.com/reactifyStudio) | | Wilson Gichuhi
 # HAPPY CODING :kenya:
