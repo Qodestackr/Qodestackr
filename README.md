@@ -16,8 +16,8 @@ I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https:
   <img src="https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&hide=HTML&count_private=true&theme=tokyonight">
 </p>
-##  I participate in open source by building software products that impacts developers and users.
-I am technical writer at section.io and an active freelancer. Learning tech basically my full-time job. 
+I participate in open source by building software products that impacts developers and users.
+Open source is where my mind goes open. Learning tech basically my full-time job. 
 <br>
 
 <!--
