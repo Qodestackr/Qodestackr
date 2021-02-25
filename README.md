@@ -1,5 +1,5 @@
-## Hello dev
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://njugiastudio.ml)" title="👋 Hi there! I'm (Wilson Njugia|reactifyStudio)|https://njugiastudio.ml)"/>](https://njugiastudio.ml/)
+## Hello nerds
+# My name is Wilson Gichuhi 👋
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=reactifyStudio&color=00cf00)
 ## My Tech Stack 
