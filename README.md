@@ -20,7 +20,7 @@ I participate in open source by building software products that impacts develope
 Open source is where my mind goes open and learning tech basically my full-time job. 
 <br>
 
-## Stuff I worked on last week⌚
+## Stuff I worked on recently⌚
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ReactifyStudio&compact=True"/>
 </a>
