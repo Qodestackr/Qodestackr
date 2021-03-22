@@ -1,4 +1,4 @@
-## Hello nerds
+## Portfolio
 # My name is Wilson Gichuhi 👋
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=reactifyStudio&color=00cf00)
