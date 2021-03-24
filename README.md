@@ -21,9 +21,12 @@ Open source is where my mind goes open and learning tech basically my full-time 
 <br>
 
 ## Stuff I worked on recently⌚
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ReactifyStudio&compact=True"/>
 </a>
+-->
 <!--
 <p align="center">
   <a href="https://github.com/reactifyStudio?tab=followers">
