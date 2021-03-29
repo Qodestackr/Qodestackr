@@ -1,5 +1,4 @@
-## Portfolio
-# My name is Wilson Gichuhi 👋
+# Wilson Gichuhi 👋
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=reactifyStudio&color=00cf00)
 ## My Tech Stack 
@@ -19,10 +18,7 @@ I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https:
 I participate in open source by building software products that impacts developers and users.
 Open source is where my mind goes open and learning tech basically my full-time job. 
 <br>
-```js
-alert(1)
-const data = new Data()
-```
+
 ## Stuff I worked on recently⌚
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -30,13 +26,13 @@ const data = new Data()
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ReactifyStudio&compact=True"/>
 </a>
 <br>
-```HTML
+
 I am a developer 🎵 Fighting bugs by moonlight <br>
  🎵 shipping code by daylight 🎵 <br>
 fixing prod is a real fight <br>
  🎵 I'm the one named Sailor Moon🚀<br>
 ⭐The Coding Poetry.
-```
+
 
 <p align="center">
   <a href="https://github.com/reactifyStudio?tab=followers">
