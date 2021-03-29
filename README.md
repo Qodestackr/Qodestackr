@@ -10,10 +10,10 @@
 
 I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https://www.jkuat.ac.ke) pursuing a computer science degree. My interest in tech is Web and building microservices on the cloud. 
 
-## How I have been ranking lately
+## My GitHub stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&hide=CSS&&HTML&count_private=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&hide=CSS,HTML&count_private=true&theme=tokyonight">
 </p>
 I participate in open source by building software products that impacts developers and users.
 Open source is where my mind goes open and learning tech basically my full-time job. 
