@@ -19,7 +19,10 @@ I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https:
 I participate in open source by building software products that impacts developers and users.
 Open source is where my mind goes open and learning tech basically my full-time job. 
 <br>
-
+```js
+alert(1)
+const data = new Data()
+```
 ## Stuff I worked on recently⌚
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
