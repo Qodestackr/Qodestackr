@@ -30,17 +30,16 @@ I am a developer 🎵 Fighting bugs by moonlight
  🎵 shipping code by daylight 🎵 
 fixing prod is a real fight
  🎵 I'm the one named Sailor Moon🚀
+⭐The Coding Poetry.
 
-<!--
 <p align="center">
   <a href="https://github.com/reactifyStudio?tab=followers">
     <img src="https://img.shields.io/github/followers/reactifyStudio?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/NjugiaN">
-    <img src="https://img.shields.io/twitter/follow/NjugiaN?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="http://twitter.com/njugia_willy">
+    <img src="https://img.shields.io/twitter/follow/njugia_willy?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
--->
 
-⭐ From [reactifyStudio](https://github.com/reactifyStudio) | | Wilson Gichuhi.
+
 # HAPPY CODING :kenya:
