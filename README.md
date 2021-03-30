@@ -10,11 +10,11 @@
 
 I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https://www.jkuat.ac.ke) pursuing a computer science degree. My interest in tech is Web and building microservice infrastructure on the cloud. 
 
+<h1 align="center">My GitHub stats </h1>
   <table align="center">
-<h1>My GitHub stats <h1>
   <tr>
-      <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api?username=ReactifyStudio&show_icons=true&theme=synthwave"/></td>
-      <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReactifyStudio&hide=css,html&count_private=true&theme=synthwave&layout=compact"/></td>      
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=ReactifyStudio&show_icons=true&theme=synthwave"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReactifyStudio&hide=css,html&count_private=true&theme=synthwave&layout=compact"/></td>      
   </tr>   
 </table>
 <p align="center">
@@ -23,7 +23,7 @@ Open source is where my mind goes open and learning tech is my full-time job.
   </p>
 <br>
 
-## My Weekly Coding Stats⌚
+<h1 align="center"> My Weekly Coding Stats⌚ </h1>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ReactifyStudio&v=2"/>
