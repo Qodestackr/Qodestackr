@@ -27,7 +27,7 @@ Open source is where my mind goes open and learning tech basically my full-time 
 </a>
 <br>
 
-<p align="center">
+<p align="center" color="cyan">
 ⭐The Coding Poetry⭐ <br>
 I'm a JavaScript dev, Fighting bugs by moonlight <br>
 Shipping code by daylight 🎵 <br>
