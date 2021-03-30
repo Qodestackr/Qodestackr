@@ -15,6 +15,12 @@ I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https:
   <img src="https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true&theme=synthwave" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&hide=CSS,HTML&count_private=true&theme=synthwave&compact=True">
 </p>
+  <table>
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&hide=css&layout=compact"/></td>      
+  </tr>   
+</table>
 I participate in open source by building software products that impacts developers and users.
 Open source is where my mind goes open and learning tech is my full-time job. 
 <br>
