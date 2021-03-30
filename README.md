@@ -17,8 +17,8 @@ I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https:
 </p>
   <table>
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&hide=css&layout=compact"/></td>      
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=ReactifyStudio&show_icons=true"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReactifyStudio&hide=css&layout=compact"/></td>      
   </tr>   
 </table>
 I participate in open source by building software products that impacts developers and users.
