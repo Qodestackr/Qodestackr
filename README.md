@@ -24,6 +24,7 @@ Open source is where my mind goes open and learning tech basically my full-time 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ReactifyStudio&compact=True"/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ReactifyStudio)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 <br>
 <p align="center" color="cyan">
