@@ -26,13 +26,6 @@ Open source is where my mind goes open and learning tech basically my full-time 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ReactifyStudio&compact=True"/>
 </a>
 <br>
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 <p align="center" color="cyan">
 ⭐The Coding Poetry⭐ <br>
 I'm a JavaScript dev, Fighting bugs by moonlight <br>
@@ -40,9 +33,6 @@ Shipping code by daylight 🎵 <br>
 Fixing production is a real fight <br>
 I'm the one named Sailor Moon🚀<br>
 <p>  
-
-
-
 <p align="center">
   <a href="https://github.com/reactifyStudio?tab=followers">
     <img src="https://img.shields.io/github/followers/reactifyStudio?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
