@@ -27,11 +27,13 @@ Open source is where my mind goes open and learning tech basically my full-time 
 </a>
 <br>
 
-<center>⭐The Coding Poetry⭐</center>
+<p align="center">
+⭐The Coding Poetry⭐
 I'm a JavaScript dev, Fighting bugs by moonlight <br>
 Shipping code by daylight 🎵 <br>
 Fixing production is a real fight <br>
 I'm the one named Sailor Moon🚀<br>
+<p>  
 
 
 
