@@ -19,7 +19,7 @@ I participate in open source by building software products that impacts develope
 Open source is where my mind goes open and learning tech is my full-time job. 
 <br>
 
-## Stuff I worked on recently⌚
+## My Weekly Coding Stats⌚
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
 -->
