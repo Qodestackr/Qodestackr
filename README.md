@@ -46,4 +46,4 @@ I'm the one named Sailor Moon🚀<br>
 </p>
 
 
-### @github is my corner of the internet
+<pre align="right">    @github is my corner of the internet</pre>
