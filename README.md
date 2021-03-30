@@ -11,16 +11,13 @@
 I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https://www.jkuat.ac.ke) pursuing a computer science degree. My interest in tech is Web and building microservice infrastructure on the cloud. 
 
 ## My GitHub stats 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true&theme=synthwave" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&hide=CSS,HTML&count_private=true&theme=synthwave&compact=True">
-</p>
-  <table>
+  <table align="center">
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=ReactifyStudio&show_icons=true&theme=synthwave"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReactifyStudio&hide=css&count_private=true&theme=synthwave&layout=compact"/></td>      
+      <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api?username=ReactifyStudio&show_icons=true&theme=synthwave"/></td>
+      <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReactifyStudio&hide=css,html&count_private=true&theme=synthwave&layout=compact"/></td>      
   </tr>   
 </table>
+
 I participate in open source by building software products that impacts developers and users.
 Open source is where my mind goes open and learning tech is my full-time job. 
 <br>
