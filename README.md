@@ -10,24 +10,24 @@
 
 I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https://www.jkuat.ac.ke) pursuing a computer science degree. My interest in tech is Web and building microservice infrastructure on the cloud. 
 
-## My GitHub stats 
   <table align="center">
+<h1>My GitHub stats <h1>
   <tr>
       <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api?username=ReactifyStudio&show_icons=true&theme=synthwave"/></td>
       <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReactifyStudio&hide=css,html&count_private=true&theme=synthwave&layout=compact"/></td>      
   </tr>   
 </table>
-
+<p align="center">
 I participate in open source by building software products that impacts developers and users.
 Open source is where my mind goes open and learning tech is my full-time job. 
+  </p>
 <br>
 
 ## My Weekly Coding Stats⌚
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
--->
+
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ReactifyStudio&v=2"/>
-</a>
+</p>
 <br>
 <p align="center" color="cyan">
 ⭐The Coding Poetry⭐ <br>
@@ -35,7 +35,7 @@ I'm a JavaScript dev, Fighting bugs by moonlight <br>
 Shipping code by daylight 🎵 <br>
 Fixing production is a real fight <br>
 I'm the one named Sailor Moon🚀<br>
-<p>  
+</p>  
 <p align="center">
   <a href="https://github.com/reactifyStudio?tab=followers">
     <img src="https://img.shields.io/github/followers/reactifyStudio?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
@@ -46,4 +46,4 @@ I'm the one named Sailor Moon🚀<br>
 </p>
 
 
-### @Github is my corner of the internet
+### @github is my corner of the internet
