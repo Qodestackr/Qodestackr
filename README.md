@@ -13,7 +13,7 @@ I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https:
 ## My GitHub stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&hide=CSS,HTML&count_private=true&theme=synthwave">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&hide=CSS,HTML&count_private=true&theme=synthwave&compact=True">
 </p>
 I participate in open source by building software products that impacts developers and users.
 Open source is where my mind goes open and learning tech basically my full-time job. 
@@ -23,8 +23,7 @@ Open source is where my mind goes open and learning tech basically my full-time 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ReactifyStudio&compact=True"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ReactifyStudio"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ReactifyStudio"/>
 </a>
 <br>
 <p align="center" color="cyan">
