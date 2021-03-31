@@ -26,7 +26,7 @@ Open source is where my mind goes open and learning tech is my full-time job.
 <h1 align="center"> My Weekly Coding Stats⌚ </h1>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ReactifyStudio&v=2"/>
+
 </p>
 <br>
 <p align="center" color="cyan">
