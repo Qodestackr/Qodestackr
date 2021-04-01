@@ -1,5 +1,5 @@
 # Hello Nerds
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+<img src="https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png"/>
 
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=reactifyStudio&color=00cf00)
