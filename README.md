@@ -13,8 +13,8 @@ I'm a student at [Jomo Kenyatta University Of Agriculture and Technology](https:
 <h1 align="center">My GitHub stats </h1>
   <table align="center">
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=DevopStackr&show_icons=true&theme=synthwave"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevopStackr&hide=css,html&count_private=true&theme=synthwave&layout=compact"/></td>      
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Qodestackr&show_icons=true&theme=synthwave"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qodestackr&hide=css,html&count_private=true&theme=synthwave&layout=compact"/></td>      
   </tr>   
 </table>
 <p align="center">
@@ -37,8 +37,8 @@ Fixing production is a real fight <br>
 I'm the one named Sailor Moon🚀<br>
 </p>  
 <p align="center">
-  <a href="https://github.com/DevopStackr?tab=followers">
-    <img src="https://img.shields.io/github/followers/DevopStackr?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://github.com/Qodestackr?tab=followers">
+    <img src="https://img.shields.io/github/followers/Qodestackr?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/njugia_willy">
     <img src="https://img.shields.io/twitter/follow/njugia_willy?label=Twitter&logo=twitter&style=for-the-badge" />
