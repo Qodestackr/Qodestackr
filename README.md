@@ -3,9 +3,9 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=reactifyStudio&color=00cf00)
 <h1 align="center">Caption This ✨</center></h1>
 <p align="center">
->When you strive to comprehend your code, you a create better workflow 
->and become better at what you do. Your code isn't just your job anymore,
->it's your craft.
+When you strive to comprehend your code, you a create better workflow 
+and become better at what you do. Your code isn't just your job anymore,
+it's your craft.
 </p>
 <h1 align="center"> Tech stack</h1>
 <p align="center">
