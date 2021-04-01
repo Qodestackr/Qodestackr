@@ -38,7 +38,7 @@ I'm the one named Sailor Moon🚀<br>
 </p>  
 <p align="center">
   <a href="https://github.com/DevopStackr?tab=followers">
-    <img src="https://img.shields.io/github/followers/reactifyStudio?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/DevopStackr?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/njugia_willy">
     <img src="https://img.shields.io/twitter/follow/njugia_willy?label=Twitter&logo=twitter&style=for-the-badge" />
