@@ -1,4 +1,4 @@
-# Hello, Folks
+# Hello, Folks 👋
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=reactifyStudio&color=00cf00)
 <h1 align="center">Caption This ✨</center></h1>
@@ -51,4 +51,4 @@ I'm the one named Sailor Moon🚀<br>
 </p>
 
 
-<pre align="center">    To be Awake is To be Alive 💯 || @github is my corner of the internet</pre>
+<pre align="center">    GitHub is my corner of the internet</pre>
