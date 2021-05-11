@@ -46,7 +46,7 @@ I'm the one named Sailor Moon🚀<br>
     <img src="https://img.shields.io/github/followers/Qodestackr?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/njugia_willy">
-    <img src="https://img.shields.io/twitter/follow/njugia_willy?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/Qodestackr?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
