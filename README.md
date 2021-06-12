@@ -34,8 +34,8 @@ Open source is where my mind goes open and learning tech is my full-time job.
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qodestackr&v=2"/>
 </p>
 <br>
-<p align="center" color="cyan">
 
+<p align="center">
 I'm a JavaScript dev, Fighting bugs by moonlight⭐⭐ <br>
 Shipping code by daylight 🎵 <br>
 Fixing production is a real fight <br>
