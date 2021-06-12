@@ -35,12 +35,4 @@ Open source is where my mind goes open and learning tech is my full-time job.
 </p>
 <br>
 
-<p align="center">
-I'm a JavaScript dev, Fighting bugs by moonlight⭐⭐ <br>
-Shipping code by daylight 🎵 <br>
-Fixing production is a real fight <br>
-I'm the one named Sailor Moon🚀<br>
-</p>  
-
-
 <pre align="center">    GitHub is my corner of the internet</pre>
