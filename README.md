@@ -31,6 +31,7 @@ Open source is where my mind goes open and learning tech is my full-time job.
 <h1 align="center"> My Weekly Coding Stats⌚ </h1>
 
 <p align="center">
+```Once swam to the end of an infinity pool, no thought 💭 goes unpublished```
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qodestackr"/>
 </p>
 <br>
