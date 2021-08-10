@@ -32,7 +32,10 @@ Open source is where my mind goes open and learning tech is my full-time job.
 
 <p align="center">
 <pre>Once swam to the end of an infinity pool, no thought 💭 goes unpublished</pre>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qodestackr"/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qodestackr"/> -->
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
+
 </p>
 <br>
 
