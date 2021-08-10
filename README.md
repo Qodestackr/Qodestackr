@@ -28,15 +28,14 @@ Open source is where my mind goes open and learning tech is my full-time job.
   </p>
 <br>
 
-<h1 align="center"> My Weekly Coding Stats⌚ </h1>
+<!-- <h1 align="center"> My Weekly Coding Stats⌚ </h1> -->
 
 <p align="center">
 <pre>Once swam to the end of an infinity pool, no thought 💭 goes unpublished</pre>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qodestackr"/> -->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
-
 </p>
 <br>
 
-<pre align="center">    GitHub is my corner of the internet</pre>
+<!-- <pre align="center">    GitHub is my corner of the internet</pre> -->
