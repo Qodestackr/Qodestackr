@@ -38,4 +38,8 @@ Open source is where my mind goes open and learning tech is my full-time job.
 </p>
 <br>
 
-<!-- <pre align="center">    GitHub is my corner of the internet</pre> -->
+<h3 align="center"> GitHub is my corner of the internet</h3>
+<h4 align="center"> Connecting Green dots 💚 </h4>
+<p align="center">
+<img align="right" height="270px" width="350" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+</p>
