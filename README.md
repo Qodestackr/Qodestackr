@@ -24,8 +24,9 @@ I'm a student at Jomo Kenyatta University Of Agriculture And Technology pursuing
 </table>
 <p align="center">
 I participate in open source by building software products that impacts developers and users.
-Open source is where my mind goes open and learning tech is my full-time job. 
-  </p>
+Open source is where my mind goes open and learning tech is my full-time job. <img align="right" height="270px" width="350" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /></a>
+ </p>
+<br>
 <br>
 
 <!-- <h1 align="center"> My Weekly Coding Stats⌚ </h1> -->
@@ -33,12 +34,11 @@ Open source is where my mind goes open and learning tech is my full-time job.
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qodestackr"/> -->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<br>
+<!-- <p align="center">
+    <h3 align="center"> GitHub is my corner of the internet</h3>
+</p> -->
 
 <p align="center">
-  <h3 align="center"> GitHub is my corner of the internet</h3>
-  <img align="center" height="270px" width="350" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /></a>
   <h4 align="center"> Connecting Green dots 💚 </h4>
  <img align="center" src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake">
  <pre>Once swam to the end of an infinity pool, no thought 💭 goes unpublished</pre>
