@@ -30,18 +30,16 @@ Open source is where my mind goes open and learning tech is my full-time job.
 
 <!-- <h1 align="center"> My Weekly Coding Stats⌚ </h1> -->
 
-<p align="center">
-<pre>Once swam to the end of an infinity pool, no thought 💭 goes unpublished</pre>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qodestackr"/> -->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
-</p>
+
 <br>
 
-<h3 align="center"> GitHub is my corner of the internet</h3>
-<h4 align="center"> Connecting Green dots 💚 </h4>
-
 <p align="center">
+  <h3 align="center"> GitHub is my corner of the internet</h3>
   <img align="center" height="270px" width="350" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /></a>
- <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <h4 align="center"> Connecting Green dots 💚 </h4>
+ <img align="center" src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake">
+ <pre>Once swam to the end of an infinity pool, no thought 💭 goes unpublished</pre>
 </p>
