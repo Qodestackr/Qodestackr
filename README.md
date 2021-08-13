@@ -40,6 +40,6 @@ Open source is where my mind goes open and learning tech is my full-time job. <i
 
 <p align="center">
   <h4 align="center"> Connecting Green dots 💚 </h4>
- <img align="center" src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake">
+ <img align="center" src="./github-contribution-grid-snake.svg" alt="snake">
  <pre>Once swam to the end of an infinity pool, no thought 💭 goes unpublished</pre>
 </p>
