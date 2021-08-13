@@ -33,7 +33,6 @@ I participate in open source by building software products that impacts develope
 Open source is where my mind goes open and learning tech is my full-time job. 
   <!--<img align="right" height="270px" width="350" src="./comp.gif" />-->
  </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Qodestackr&theme=react&ring=2BDD18&fire=DD2727&currStreakLabel=DD4D5E&sideLabels=DD636E" alt="streak" />
 </p>
@@ -45,10 +44,9 @@ Open source is where my mind goes open and learning tech is my full-time job.
 <!-- <p align="center">
     <h3 align="center"> GitHub is my corner of the internet</h3>
 </p> -->
-
 <p align="center">
   <h4 align="center"> Connecting Green dots 💚 </h4>
  <img align="center" src="./github-contribution-grid-snake.svg" alt="snake">
- <pre>Once swam to the end of an infinity pool, no thought 💭 goes unpublished</pre>
+<!--  <pre>Once swam to the end of an infinity pool, no thought 💭 goes unpublished</pre> -->
 </p>
 <!-- https://www.antstack.io/ -->
