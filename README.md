@@ -20,6 +20,7 @@ it's your craft.
 <p align="center">
 I'm a student at Jomo Kenyatta University Of Agriculture And Technology pursuing a computer science degree. My interest in tech is Web and building microservice infrastructure on the cloud. 
 </p>  
+<p> 😎 My portfolio : https://qodestackr.netlify.app </p>
 
 <h1 align="center">My GitHub stats </h1>
   <table align="center">
