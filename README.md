@@ -21,7 +21,7 @@ it's your craft.
 <p align="center">
 <!--I'm a student at Jomo Kenyatta University Of Agriculture And Technology pursuing a computer science degree.-->My interest in tech is Web and building microservice infrastructure on the cloud. 
 </p>  
-<p> 😎 My portfolio : https://qodestackr.netlify.app </p>
+<p align="center"> 😎 My portfolio : https://qodestackr.netlify.app </p>
 
 <h1 align="center">My GitHub stats </h1>
   <table align="center">
@@ -38,9 +38,9 @@ Open source is where my mind goes open and learning tech is my full-time job.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Qodestackr&theme=react&ring=2BDD18&fire=DD2727&currStreakLabel=DD4D5E&sideLabels=DD636E" alt="streak" />
 </p>
-<!-- <h1 align="center"> My Weekly Coding Stats⌚ </h1> -->
+<h1 align="center"> My Weekly Coding Stats⌚ </h1>
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qodestackr"/> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qodestackr"/>
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <p align="center">
