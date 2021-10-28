@@ -20,13 +20,9 @@ it's your craft.
 </p>  
 <p align="center"> 😎 My portfolio : https://qodestackr.netlify.app </p>
 
-<h1 align="center">My GitHub stats </h1>
-  <table align="center">
-  <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Qodestackr&show_icons=true&theme=synthwave"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qodestackr&hide=css,html&count_private=true&theme=synthwave&layout=compact"/></td>      
-  </tr>   
-</table>
+<h1 align="center">Latest Tech articles</h1>
+
+
 <p align="center">
 I participate in open source by building software products that impacts developers and users.
 Open source is where my mind goes open and learning tech is my full-time job. 
