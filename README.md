@@ -20,8 +20,6 @@ it's your craft.
 </p>  
 <p align="center"> 😎 My portfolio : https://qodestackr.netlify.app </p>
 
-<h1 align="center">Latest Tech articles</h1>
-
 
 <p align="center">
 I participate in open source by building software products that impacts developers and users.
@@ -34,15 +32,18 @@ Open source is where my mind goes open and learning tech is my full-time job.
 
 <h1 align="center"> My Weekly Coding Stats⌚ </h1>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qodestackr"/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qodestackr"/> -->
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Qodestackr)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!-- <p align="center">
     <h3 align="center"> GitHub is my corner of the internet</h3>
 </p> -->
 <p align="center">
   <h4 align="center"> Connecting Green dots 💚 </h4>
  <img align="center" src="./github-contribution-grid-snake.svg" alt="snake">
-<!--  <pre>Once swam to the end of an infinity pool, no thought 💭 goes unpublished</pre> -->
+ <pre>Once swam to the end of an infinity pool, no thought 💭 goes unpublished</pre>
 </p>
+
 <!-- https://www.antstack.io/ -->
+<h1 align="center">Latest Tech articles</h1>
