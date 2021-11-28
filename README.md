@@ -38,7 +38,7 @@ Open source is where my mind goes open and learning tech is my full-time job.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Qodestackr&theme=react&ring=2BDD18&fire=DD2727&currStreakLabel=DD4D5E&sideLabels=DD636E" alt="streak" />
 </p>
 
-<h1 align="center"> My Weekly Coding Stats⌚ </h1>
+
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qodestackr"/> -->
 
