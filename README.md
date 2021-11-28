@@ -20,7 +20,7 @@ it's your craft.
 </p>  
 <p align="center"> 😎 My portfolio : https://qodestackr.netlify.app </p>
 
-<h1 align="center">My GitHub stats </h1>
+<h1 align="center"> GitHub Activity </h1>
   <table align="center">
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Qodestackr&show_icons=true&theme=synthwave"/></td>
