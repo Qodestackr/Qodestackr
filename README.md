@@ -50,8 +50,8 @@ Open source is where my mind goes open and learning tech is my full-time job.
 </p>
 
 <!-- https://www.antstack.io/ -->
-
+<!--
 <h1 align="center">Dev Technical Content</h1>
 <p align="center">
 <a href="https://app.daily.dev/Qodestackr"><img src="https://api.daily.dev/devcards/c17a06fc329b46a0af88a7be996cfc6a.png?r=q1j" width="400" alt="Wilson Gichuhi Njugia's Dev Card"/></a>
- </p>
+ </p>-->
