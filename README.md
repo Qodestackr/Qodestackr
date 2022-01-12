@@ -35,11 +35,11 @@ Open source is where my mind goes open and learning tech is my full-time job.
   <!--<img align="right" height="270px" width="350" src="./comp.gif" />-->
  </p>
  
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Qodestackr&theme=react&ring=2BDD18&fire=DD2727&currStreakLabel=DD4D5E&sideLabels=DD636E" alt="streak" />
-</p> -->
+</p>
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qodestackr"/> -->
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qodestackr"/>-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Qodestackr)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -54,4 +54,4 @@ Open source is where my mind goes open and learning tech is my full-time job.
 <h1 align="center">Dev Technical Content</h1>
 <p align="center">
 <a href="https://app.daily.dev/Qodestackr"><img src="https://api.daily.dev/devcards/c17a06fc329b46a0af88a7be996cfc6a.png?r=q1j" width="400" alt="Wilson Gichuhi Njugia's Dev Card"/></a>
- </p>-->
+ </p>--> 
