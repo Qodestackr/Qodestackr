@@ -21,7 +21,7 @@ it's your craft.
   <table align="center">
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Qodestackr&show_icons=true&theme=synthwave"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qodestackr&hide=css,html&count_private=true&theme=synthwave&layout=compact"/></td>      
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qodestackr&hide=css,html,SCSS&count_private=true&theme=synthwave&layout=compact"/></td>      
   </tr>   
 </table>
 
