@@ -31,7 +31,6 @@ it's your craft.
 <p align="center">
 I participate in open source by building software products that impacts developers and users.
 Open source is where my mind goes open and learning tech is my full-time job. 
-  <img align="right" height="270px" width="350" src="./comp.gif" />
  </p>
  
 <p align="center">
