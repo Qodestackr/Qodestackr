@@ -1,5 +1,6 @@
-![other](./motiv.gif)
+<!-- ![other](./motiv.gif) -->
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=reactifyStudio&color=00cf00)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0C2B39&center=true&lines=Wilson+Gichuhi+%7C+A+Fullstack+Dev)](https://git.io/typing-svg)
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
  
