@@ -1,4 +1,4 @@
-<!-- ![other](./motiv.gif) -->
+
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=reactifyStudio&color=00cf00)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0C2B39&center=true&lines=Wilson+Gichuhi+%7C+A+Fullstack+Dev)](https://git.io/typing-svg)
@@ -31,9 +31,10 @@ it's your craft.
 
 <p align="center">
 I participate in open source by building software products that impacts developers and users.
-Open source is where my mind goes open and learning tech is my full-time job. 
+Open source is where my mind goes open and learning tech is basically my full-time job. 
  </p>
- 
+
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Qodestackr&theme=react&ring=2BDD18&fire=DD2727&currStreakLabel=DD4D5E&sideLabels=DD636E" alt="streak" />
 </p>
@@ -42,6 +43,6 @@ Open source is where my mind goes open and learning tech is my full-time job.
   <h4 align="center"> Connecting Green dots 💚 </h4>
  <img align="center" src="./github-contribution-grid-snake.svg" alt="snake">
 
- <pre>Once swam to the end of an infinity pool, no thought 💭 goes unpublished</pre>
+<pre>Once swam to the end of an infinity pool, no thought 💭 goes unpublished</pre>
 </p>
-
+-->
