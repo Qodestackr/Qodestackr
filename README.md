@@ -10,6 +10,9 @@
 When you strive to comprehend your code, you a create better workflow 
 and become better at what you do. Your code isn't just your job anymore,
 it's your craft.
+I approchmy work  
+t with a sense of artistry and craftsmanship can elevate the quality and meaning of the work. It shows a dedication to excellence, attention to detail, and a passion for creating something of value. By embracing the art of craft in all aspects of life, you can find fulfillment and satisfaction in your endeavors, and your work is likely to resonate with others as well.
+
 </pre>
 <h1 align="center"> Tech stack and Tools 🛠️</h1>
 <p align="center">
