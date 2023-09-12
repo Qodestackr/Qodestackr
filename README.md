@@ -1,6 +1,3 @@
-
-
-Ahoy, intrepid voyagers of the code-scape!
 ###### Tech Tales: My Interests
 
 
@@ -21,7 +18,7 @@ it's your craft.
 <p align="center"> 😎 My portfolio : https://qodestackr.netlify.app </p>
 -->
 
-<h1 align="center"> Chronicles of My Coding Odyssey </h1>
+<h1 align="center">My Portfolio Stats</h1>
   <table align="center">
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Qodestackr&show_icons=true&theme=synthwave"/></td>
@@ -32,9 +29,7 @@ it's your craft.
 <p align="center">
 Open Source Devotee, Committed to Creating Software that Empowers. Embracing an Everlasting Pool of Innovation, where my Mind Soars. Learning tech is basically my full-time job and open source made me.
  </p>
-
  
-
 <!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Qodestackr&theme=react&ring=2BDD18&fire=DD2727&currStreakLabel=DD4D5E&sideLabels=DD636E" alt="streak" />
