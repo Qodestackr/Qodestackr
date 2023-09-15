@@ -1,7 +1,6 @@
 ###### Tech Tales: My Interests
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=4900&pause=1000&color=003344&center=true&width=450&height=120&lines=Open+Source+%7C+Cloud+Computing+%7C;Golang+%26+React+%7C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=React+%7C+TS+...;Go+%7C+Python)](https://git.io/typing-svg)
  
 <!--<pre align="center">
 When you strive to comprehend your code, you a create better workflow 
