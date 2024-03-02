@@ -17,7 +17,10 @@ it's your craft.
 <p align="center"> 😎 My portfolio : https://qodestackr.netlify.app </p>
 -->
 
-<h1 align="center">My Portfolio Stats</h1>
+  <pre align="center">
+    fmt.Println(consumer.ConsumeEvents()) // Streaming System Event Status 🟢...
+  </pre>
+
   <table align="center">
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Qodestackr&show_icons=true&theme=synthwave"/></td>
@@ -38,7 +41,7 @@ Just a man, shipping code, backing backends that pack a punch. Open source made 
 <p align="center">
   <h4 align="center"> Connecting Green dots 💚 </h4>
 <!--  <img align="center" src="./github-contribution-grid-snake.svg" alt="snake"> -->
-<img align="center" src="./github-contribution-grid-snake.svg" alt="snake svg">
+<!-- <img align="center" src="./github-contribution-grid-snake.svg" alt="snake svg"> -->
 
 <pre>Once swam to the end of an infinity pool, no thought 💭 goes unpublished</pre>
 </p>
