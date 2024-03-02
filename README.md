@@ -26,7 +26,7 @@ it's your craft.
 </table>
 
 <p align="center">
-Open Source Devotee, Committed to Creating Software that Empowers. Embracing an Everlasting Pool of Innovation, where my Mind Soars. Learning tech is basically my full-time job and open source made me.
+Just a man, shipping code, backing backends that pack a punch. Open source made me, and learning has basically become my full-time job.
  </p>
  
 <!--
