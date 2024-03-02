@@ -33,11 +33,13 @@ Open Source Devotee, Committed to Creating Software that Empowers. Embracing an 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Qodestackr&theme=react&ring=2BDD18&fire=DD2727&currStreakLabel=DD4D5E&sideLabels=DD636E" alt="streak" />
 </p>
+-->
 
 <p align="center">
   <h4 align="center"> Connecting Green dots 💚 </h4>
- <img align="center" src="./github-contribution-grid-snake.svg" alt="snake">
+<!--  <img align="center" src="./github-contribution-grid-snake.svg" alt="snake"> -->
+<img align="center" src="./github-contribution-grid-snake.svg" alt="snake svg">
 
 <pre>Once swam to the end of an infinity pool, no thought 💭 goes unpublished</pre>
 </p>
--->
+
