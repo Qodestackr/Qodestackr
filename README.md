@@ -1,5 +1,3 @@
-###### _ | Crafting Go code, one buffer overflow at a time
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=195874&random=false&width=435&lines=%F0%9F%94%A7+WASM+Tinkerer;%F0%9F%90%B9+Gopher;DevOps+%26+SRE;%E2%98%81%EF%B8%8F+Cloud-first+Web;Polyglot)](https://git.io/typing-svg)
  
 <!--<pre align="center">
