@@ -21,4 +21,3 @@ func main() {
     systems.ConsumeEvents() // Production-grade event streaming 🟢...
 }
 ```
-<p align="center"> <em>Compiling solutions at the edge of distributed systems</em> .. We won the battle. The war? Ask my 3 AM Slack pings.</p>
