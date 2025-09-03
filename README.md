@@ -15,9 +15,18 @@
 ```go
 package main
 
-import "github.com/qodestackr/systems"
+import (
+    "fmt"
+    "time"
+    "github.com/qodestackr/systems"
+)
 
+// 🪦 Here lies a dev who finally got his webhook to fire… once.
 func main() {
-    systems.ConsumeEvents() // Production-grade event streaming 🟢...
+    fmt.Println("🚀 Booting up distributed chaos...")
+    for event := range systems.ConsumeEvents() {
+        fmt.Printf("✅ Event processed at %s: %v\n", time.Now().Format(time.RFC3339), event)
+    }
+    // you’ll never reach here, just like stable infra 🤷‍♂️
 }
 ```
