@@ -1,1 +1,1 @@
-I build orchestrations that allows non-deterrministic models to behave like reliable software
+*I build the control layer between AI models and real business consequences*
